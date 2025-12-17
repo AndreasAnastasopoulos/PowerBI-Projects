@@ -18,6 +18,20 @@ An interactive single-page dashboard analyzing online job postings from 2024.
 - **Interactivity**: Implemented drill-through functionality to explore specific job titles in detail
 - **Dashboard Design**: Built a cohesive, user-friendly interface for data exploration
 
+#### 📸 Dashboard Preview
+
+<div align="center">
+  
+![Dashboard Overview](imagesvids/firstdash.png)
+
+![Dashboard Detail View](imagesvids/firstdash2.png)
+
+</div>
+
+#### 🎥 Interactive Demo
+
+https://github.com/AndreasAnastasopoulos/PowerBI-Projects/assets/imagesvids/Datajobs1vid.mp4
+
 ---
 
 ### Project 3: Advanced Skills & Salaries Analysis
@@ -31,6 +45,18 @@ A data-driven dashboard providing deeper insights into job market skills and sal
   - Implemented parameters for dynamic analysis
   - Built advanced formulas for salary and skill metrics
 - **Data Modeling**: Designed and structured data relationships for optimal performance
+
+#### 📸 Dashboard Preview
+
+<div align="center">
+  
+![Advanced Dashboard](imagesvids/seconddash.png)
+
+</div>
+
+#### 🎥 Interactive Demo
+
+https://github.com/AndreasAnastasopoulos/PowerBI-Projects/assets/imagesvids/Datajobs2vid.mp4
 
 ---
 
