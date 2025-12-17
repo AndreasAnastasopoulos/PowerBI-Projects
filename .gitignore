@@ -1,0 +1,6 @@
+# Exclude Project1
+Project1.pbix
+
+# Temporary files
+~$*
+*.tmp
